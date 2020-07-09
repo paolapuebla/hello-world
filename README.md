@@ -1,3 +1,4 @@
 # hello-world
 
-hello people
+this is the read me file
+can you see me
